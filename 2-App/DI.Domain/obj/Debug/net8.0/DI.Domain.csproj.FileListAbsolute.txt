@@ -1,0 +1,11 @@
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\bin\Debug\net8.0\DI.Domain.deps.json
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\bin\Debug\net8.0\DI.Domain.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\bin\Debug\net8.0\DI.Domain.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\DI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\DI.Domain.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\DI.Domain.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\DI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\DI.Domain.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\refint\DI.Domain.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\DI.Domain.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Domain\obj\Debug\net8.0\ref\DI.Domain.dll

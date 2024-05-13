@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4mkt3SW+n8/Nlbf8ZF0RIbEo84e/UzgibcnsWX46x+09xL2XjmPs9rwUX/iOEc5q9smZoXuNUrzdzH4eCUEvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emred\\OneDrive\\Masaüstü\\DPNDNCY INJCTN\\4-App\\DI.App\\DI.App\\DI.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emred\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\emred\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

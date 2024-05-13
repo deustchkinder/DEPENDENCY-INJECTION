@@ -1,0 +1,17 @@
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\bin\Debug\net8.0\DI.Application.deps.json
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\bin\Debug\net8.0\DI.Application.runtimeconfig.json
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\bin\Debug\net8.0\DI.Application.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\bin\Debug\net8.0\DI.Application.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\bin\Debug\net8.0\DI.Domain.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\bin\Debug\net8.0\DI.Domain.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.csproj.AssemblyReference.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Appli.21C3406F.Up2Date
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\refint\DI.Application.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\DI.Application.genruntimeconfig.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Application\obj\Debug\net8.0\ref\DI.Application.dll

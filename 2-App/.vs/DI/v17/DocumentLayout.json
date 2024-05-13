@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D6DD6B-E90C-46DF-BF88-EBC945428F15}|DI.Application\\DI.Application.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\di.application\\databases\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D6DD6B-E90C-46DF-BF88-EBC945428F15}|DI.Application\\DI.Application.csproj|solutionrelative:di.application\\databases\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D6DD6B-E90C-46DF-BF88-EBC945428F15}|DI.Application\\DI.Application.csproj|c:\\users\\emred\\onedrive\\masa\u00FCst\u00FC\\dpndncy injctn\\2-app\\di.application\\extensions\\appservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D6DD6B-E90C-46DF-BF88-EBC945428F15}|DI.Application\\DI.Application.csproj|solutionrelative:di.application\\extensions\\appservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887F0600-E60E-4EDD-A7EF-8C0C15CF7BFE}|UI.ConsoleApp\\UI.ConsoleApp.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\ui.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887F0600-E60E-4EDD-A7EF-8C0C15CF7BFE}|UI.ConsoleApp\\UI.ConsoleApp.csproj|solutionrelative:ui.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887F0600-E60E-4EDD-A7EF-8C0C15CF7BFE}|UI.ConsoleApp\\UI.ConsoleApp.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\ui.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{887F0600-E60E-4EDD-A7EF-8C0C15CF7BFE}|UI.ConsoleApp\\UI.ConsoleApp.csproj|solutionrelative:ui.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061ED05-AEBC-4F08-BB45-8B8B04A9762A}|DI.Services\\DI.Services.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\di.services\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061ED05-AEBC-4F08-BB45-8B8B04A9762A}|DI.Services\\DI.Services.csproj|solutionrelative:di.services\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D6DD6B-E90C-46DF-BF88-EBC945428F15}|DI.Application\\DI.Application.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\di.application\\repository\\userxrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D6DD6B-E90C-46DF-BF88-EBC945428F15}|DI.Application\\DI.Application.csproj|solutionrelative:di.application\\repository\\userxrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:424922648:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\UI.ConsoleApp\\AppSettings.json",
+              "RelativeDocumentMoniker": "UI.ConsoleApp\\AppSettings.json",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\UI.ConsoleApp\\AppSettings.json",
+              "RelativeToolTip": "UI.ConsoleApp\\AppSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T12:43:32.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Application\\Databases\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "DI.Application\\Databases\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Application\\Databases\\MyDbContext.cs",
+              "RelativeToolTip": "DI.Application\\Databases\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:57:38.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Services\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "DI.Services\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Services\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "DI.Services\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:38:18.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Application\\Extensions\\AppServicesExtensions.cs",
+              "RelativeDocumentMoniker": "DI.Application\\Extensions\\AppServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Application\\Extensions\\AppServicesExtensions.cs",
+              "RelativeToolTip": "DI.Application\\Extensions\\AppServicesExtensions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvxgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:53:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\UI.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "UI.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\UI.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "UI.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:38:21.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserxRepo.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Application\\Repository\\UserxRepo.cs",
+              "RelativeDocumentMoniker": "DI.Application\\Repository\\UserxRepo.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\DPNDNCY INJCTN\\2-App\\DI.Application\\Repository\\UserxRepo.cs",
+              "RelativeToolTip": "DI.Application\\Repository\\UserxRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:42:17.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

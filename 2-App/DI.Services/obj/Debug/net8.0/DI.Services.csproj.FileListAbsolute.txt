@@ -1,0 +1,17 @@
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Services.deps.json
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Services.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Services.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Application.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Domain.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Application.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\bin\Debug\net8.0\DI.Domain.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.csproj.AssemblyReference.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Servi.1D7E0430.Up2Date
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\refint\DI.Services.dll
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\DI.Services.pdb
+C:\Users\emred\OneDrive\Masaüstü\DPNDNCY INJCTN\2-App\DI.Services\obj\Debug\net8.0\ref\DI.Services.dll
